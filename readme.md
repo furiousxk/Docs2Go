@@ -4,3 +4,6 @@
 ### Nginx HTTP boilerplates
 https://github.com/h5bp/server-configs-nginx
 
+### DNS over HTTPS - golang
+https://github.com/satran/dohproxy
+
