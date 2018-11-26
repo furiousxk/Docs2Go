@@ -45,3 +45,10 @@ https://github.com/s0md3v/XSStrike
 https://github.com/daxeel/blockshell
 
 
+## Blogs
+https://nullprogram.com/
+
+https://www.whatbitcoindid.com
+
+
+
