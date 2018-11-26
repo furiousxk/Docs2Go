@@ -9,6 +9,9 @@ https://github.com/h5bp/server-configs-nginx
 ### DNS over HTTPS - golang
 https://github.com/satran/dohproxy
 
+### IP Geolocation through reverse DNS
+https://arxiv.org/pdf/1811.04288.pdf
+
 ## Linux stuff
 
 ### Linux insides
