@@ -12,6 +12,9 @@ https://github.com/satran/dohproxy
 ### IP Geolocation through reverse DNS
 https://arxiv.org/pdf/1811.04288.pdf
 
+### Stop using JWT's
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+
 ## Linux stuff
 
 ### Linux insides
@@ -39,6 +42,9 @@ https://github.com/kgretzky/evilginx2
 ### XSStrike
 https://github.com/s0md3v/XSStrike
 
+### Fallenour github ( LuciuOS )
+https://github.com/Fallenour
+
 ## Blockchain
 
 ### Blockshell
@@ -51,4 +57,9 @@ https://nullprogram.com/
 https://www.whatbitcoindid.com
 
 
+## Development
+
+### Hashing
+
+https://cyan4973.github.io/xxHash/
 
