@@ -45,6 +45,9 @@ https://github.com/s0md3v/XSStrike
 ### Fallenour github ( LuciuOS )
 https://github.com/Fallenour
 
+### Everything you need to know about PKI's
+https://smallstep.com/blog/everything-pki.html
+
 ## Blockchain
 
 ### Blockshell
