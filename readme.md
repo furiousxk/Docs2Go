@@ -48,6 +48,10 @@ https://github.com/Fallenour
 ### Everything you need to know about PKI's
 https://smallstep.com/blog/everything-pki.html
 https://news.ycombinator.com/item?id=18678382
+
+### Learn JSON Web Tokens
+https://github.com/dwyl/learn-json-web-tokens
+
 ## Blockchain
 
 ### Blockshell
