@@ -28,6 +28,9 @@ https://github.com/xairy/linux-kernel-exploitation
 ### Anonymous IRC
 https://gist.github.com/zotherstupidguy/ffc768e7cdf2b467ef80
 
+### Bitcoin anonymity guide
+https://www.coincache.net/2019/01/02/bitcoin-anonymity-guide-2019-how-to-use-btc-like-a-straight-up-g
+
 ## Security
 
 ### The witchcraft compiler collection
