@@ -76,3 +76,7 @@ https://www.whatbitcoindid.com
 
 https://cyan4973.github.io/xxHash/
 
+## Tutorials & learning
+
+### HN Academy
+https://hn.academy/
