@@ -26,6 +26,9 @@ https://github.com/xairy/linux-kernel-exploitation
 ### Genode
 https://genode.org/about/index
 
+### Hardening guide
+https://github.com/trimstray/the-practical-linux-hardening-guide
+
 ## Privacy
 
 ### Anonymous IRC
