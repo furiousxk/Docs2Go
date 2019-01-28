@@ -61,6 +61,9 @@ https://news.ycombinator.com/item?id=18678382
 ### Learn JSON Web Tokens
 https://github.com/dwyl/learn-json-web-tokens
 
+### The book of secret knowledge
+https://github.com/trimstray/the-book-of-secret-knowledge
+
 ## Blockchain
 
 ### Blockshell
