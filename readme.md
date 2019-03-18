@@ -29,6 +29,9 @@ https://genode.org/about/index
 ### Hardening guide
 https://github.com/trimstray/the-practical-linux-hardening-guide
 
+### The Unix-haters Handook (1994)
+http://web.mit.edu/~simsong/www/ugh.pdf
+
 ## Privacy
 
 ### Anonymous IRC
